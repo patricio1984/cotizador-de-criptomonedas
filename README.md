@@ -1,4 +1,4 @@
-﻿# cotizador-de-criptomonedas
+﻿# Cotizador de criptomonedas
  
  Esta app fue realizada con React.js, se utizaron tanto hooks (UseEffect, UseState) como custom Hooks (useMoneda, useCriptomoneda).
  
